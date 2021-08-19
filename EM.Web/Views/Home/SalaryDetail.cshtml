@@ -1,0 +1,49 @@
+﻿
+@model EM.ViewModels.Employee.SalaryDetailVm
+@{
+    ViewBag.Title = "SalaryDetail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="padding-top:10px; width:100%">
+    <h4>Chi tiết tiền lương nhân viên</h4>
+    <hr />
+    <table border="0" style="width:100%">
+        <tr>
+            <td style="width:140px">Full Name:</td>
+            <td>@Model.LastName @Model.FirstName</td>
+        </tr>
+        <tr>
+            <td style="width:140px">Birth Date:</td>
+            <td>@Model.BirthDate</td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td>@Model.Address</td>
+        </tr>
+        <tr>
+            <td>Phone Number:</td>
+            <td>@Model.PhoneNumber</td>
+        </tr>
+        <tr>
+            <td>Phone Number:</td>
+            <td>@Model.PhoneNumber</td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td>@Model.Email</td>
+        </tr>
+        <tr>
+            <td>Gross Sales:</td>
+            <td>@Model.GrossSales</td>
+        </tr>
+        <tr>
+            <td>Commission Rate:</td>
+            <td>@Model.CommissionRate</td>
+        </tr>
+    </table>
+
+</div>
+
+
+

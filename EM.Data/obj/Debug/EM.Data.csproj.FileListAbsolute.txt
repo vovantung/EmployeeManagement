@@ -1,0 +1,40 @@
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EM.Data.dll.config
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EM.Data.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EM.Data.pdb
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.xml
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.CopyComplete
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\obj\Debug\EM.Data.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\obj\Debug\EM.Data.pdb
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\obj\Debug\EM.Data.Migrations.InitDb.resources
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.GenerateResource.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EM.Data.dll.config
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EM.Data.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EM.Data.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.xml
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.Migrations.InitDb.resources
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.GenerateResource.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.CopyComplete
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EM.Data.dll.config
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EM.Data.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EM.Data.pdb
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.xml
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\obj\Debug\EM.Data.Migrations.InitDb.resources
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.GenerateResource.cache
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\obj\Debug\EM.Data.csproj.CopyComplete
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\obj\Debug\EM.Data.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Data\obj\Debug\EM.Data.pdb

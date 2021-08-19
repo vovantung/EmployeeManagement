@@ -1,0 +1,49 @@
+﻿@model List<EM.Data.Entities.Employee>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@section JsFooter{
+    @Scripts.Render("~/employee/js");
+}
+
+
+<div style="padding-top:10px; width:100%">
+    <h4>Danh sánh nhân sự</h4>
+    <hr />
+    <a class="btn-primary" style="padding:5px" href="/Admin/Employee/Create">Add Employee</a>
+    <div style="margin-top:15px;">
+        <table border="1" style="border-style:dotted; border-color:#ccc; width:100%">
+            <tr>
+                <th style="padding:5px">Id</th>
+                <th style="padding: 5px">First Name</th>
+                <th style="padding: 5px">Last Name</th>
+                <th style="padding: 5px">Phone Number</th>
+                <th style="padding: 5px">Address</th>
+                <th style="padding: 5px">Salary</th>
+                <th style="padding:5px">###</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr class="row-delete">
+                    <td style="padding: 5px">@item.Id</td>
+                    <td style="padding: 5px">@item.FirstName</td>
+                    <td style="padding: 5px">@item.LastName</td>
+                    <td style="padding: 5px">@item.PhoneNumber</td>
+                    <td style="padding: 5px">@item.Address</td>
+                    <td style="padding: 5px">
+                        <a class="employee-salary" href="/Admin/Employee/SalaryDetail?employeeId=@item.Id" data-id="@item.Id">Detail</a>
+                    </td>
+                    <td style="padding:5px">
+                        <a class="employee-update" href="/Admin/Employee/Update?employeeId=@item.Id" data-id="@item.Id">Update</a> |
+                        <a class="employee-delete" href="#" data-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+
+
+

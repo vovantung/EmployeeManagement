@@ -1,0 +1,189 @@
+﻿@model EM.ViewModels.Employee.EmployeeSalaryVm
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@section CssHeader{
+    @Scripts.Render("~/employee/css");
+}
+@section JsFooter{
+    @Scripts.Render("~/employee/js");
+    @Scripts.Render("~/employee/validate/js");
+}
+
+<div style="padding-top:10px; width:100%">
+    <h4>Add new a Employee</h4>
+    <hr />
+    @using (Html.BeginForm("Create", "Employee", FormMethod.Post, new { htmlAttributes = new { @class = "" } }))
+    {
+
+        @*@Html.ValidationSummary(false, "", new { @class = "text-danger" })*@
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>First Name</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter first name..", @tabindex = "1" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Last Name</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter last name...", @tabindex = "2" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Birth Date</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.BirthDate, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter address...", @tabindex = "3" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.BirthDate, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Address</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter address...", @tabindex = "4" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Phone number</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter phone number", @tabindex = "5" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Email address</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @name = "emailAddress", @class = "email-address text-primar", @type = "text", @placeholder = "Enter a email address", @tabindex = "6" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @*@Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })*@
+                        <div class="validate-hide">Please enter correct email. Example: example@abc.dec</div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Basic Salary</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.BasicSalary, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter Basic Salary", @tabindex = "7" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.BasicSalary, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Commission Rate</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.CommissionRate, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter Commission Rate", @tabindex = "8" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.CommissionRate, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Gross Sales</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.GrossSales, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter Gross Sales", @tabindex = "9" } })
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="font-size:0.8em">
+                        @Html.ValidationMessageFor(model => model.GrossSales, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <button type="submit">Create</button>
+        </div>
+    }
+</div>
+

@@ -1,0 +1,34 @@
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\Ultilities.pdb
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\log4net.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\log4net.xml
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\EM.Ultilities.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\EM.Ultilities.csproj.CopyComplete
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\bin\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\bin\Debug\Ultilities.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\bin\Debug\log4net.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\bin\Debug\log4net.xml
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\obj\Debug\EM.Ultilities.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\obj\Debug\EM.Ultilities.csproj.CopyComplete
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\obj\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\obj\Debug\Ultilities.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\Ultilities\obj\Debug\EM.Ultilities.csproj.AssemblyReference.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\bin\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\bin\Debug\Ultilities.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\bin\Debug\log4net.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\bin\Debug\log4net.xml
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\obj\Debug\EM.Ultilities.csproj.AssemblyReference.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\obj\Debug\EM.Ultilities.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\obj\Debug\EM.Ultilities.csproj.CopyComplete
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\obj\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.Ultilities\obj\Debug\Ultilities.pdb
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\bin\Debug\Ultilities.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\bin\Debug\Ultilities.pdb
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\bin\Debug\log4net.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\bin\Debug\log4net.xml
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\obj\Debug\EM.Ultilities.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\obj\Debug\EM.Ultilities.csproj.CopyComplete
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\obj\Debug\Ultilities.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.Ultilities\obj\Debug\Ultilities.pdb

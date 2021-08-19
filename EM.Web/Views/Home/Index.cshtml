@@ -1,0 +1,36 @@
+﻿@model List<EM.Data.Entities.Employee>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="padding-top:10px; width:100%">
+    <h4>Danh sánh nhân sự</h4>
+    <hr />
+    <table border="1" style="border-style:dotted; border-color:#ccc; width:100%">
+        <tr>
+            <th style="padding:5px">Id</th>
+            <th style="padding: 5px">First Name</th>
+            <th style="padding: 5px">Last Name</th>
+            <th style="padding: 5px">Phone Number</th>
+            <th style="padding: 5px">Address</th>
+            <th style="padding: 5px">Salary</th>
+           
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="padding: 5px">@item.Id</td>
+                <td style="padding: 5px">@item.FirstName</td>
+                <td style="padding: 5px">@item.LastName</td>
+                <td style="padding: 5px">@item.PhoneNumber</td>
+                <td style="padding: 5px">@item.Address</td>
+                <td style="padding: 5px">
+                    <a class="employee-salary" href="/Home/SalaryDetail?employeeId=@item.Id" data-id="@item.Id">Detail</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+
+

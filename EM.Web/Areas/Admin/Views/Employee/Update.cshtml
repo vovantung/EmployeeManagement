@@ -1,0 +1,78 @@
+﻿@model EM.ViewModels.Employee.EmployeeUpdateRequest
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="padding-top:10px; width:100%">
+    <h4>Update</h4>
+    <hr />
+    @using (Html.BeginForm("Update", "Employee", FormMethod.Post, new { htmlAttributes = new { @class = "" } }))
+    {
+        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Id</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @readonly = true, @type = "text", @class = "text-primary", @placeholder = "Enter first name..", @tabindex = "1" } })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>First Name</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter first name..", @tabindex = "1" } })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Last Name</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter last name...", @tabindex = "2" } })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Address</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter address...", @tabindex = "3" } })
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="form-control-static">
+            <table>
+                <tr>
+                    <td style="width:140px">
+                        <label>Phone number</label>
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @type = "text", @class = "text-primary", @placeholder = "Enter phone number...", @tabindex = "4" } })
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="form-control-static">
+            <button type="submit">Update</button>
+        </div>
+    }
+</div>

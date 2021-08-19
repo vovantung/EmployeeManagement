@@ -1,0 +1,8 @@
+﻿
+.validate-hide {
+       display: none;
+}
+.show .validate-hide {
+    display: block;
+    color:red;
+}

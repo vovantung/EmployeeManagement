@@ -1,0 +1,21 @@
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\ViewModels\obj\Debug\EM.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\ViewModels\bin\Debug\EM.ViewModels.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\ViewModels\bin\Debug\EM.ViewModels.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\ViewModels\obj\Debug\EM.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\ViewModels\obj\Debug\EM.ViewModels.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\ViewModels\obj\Debug\EM.ViewModels.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.ViewModels\bin\Debug\EM.ViewModels.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.ViewModels\bin\Debug\EM.ViewModels.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.dll
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.pdb
+C:\Users\TungVV4\Desktop\Lad\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.ViewModels\bin\Debug\EM.ViewModels.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.ViewModels\bin\Debug\EM.ViewModels.pdb
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.dll
+C:\Users\Vo Van Tung\Desktop\EmployeeManagement\EM.ViewModels\obj\Debug\EM.ViewModels.pdb

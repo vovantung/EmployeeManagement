@@ -1,0 +1,9 @@
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\Ultilities.pdb
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\log4net.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\bin\Debug\log4net.xml
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.csproj.AssemblyReference.cache
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.csproj.CoreCompileInputs.cache
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.csproj.CopyComplete
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.dll
+C:\Users\TungVV4\Desktop\Up\EmployeeManagement\Ultilities\obj\Debug\Ultilities.pdb
